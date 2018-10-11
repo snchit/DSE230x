@@ -16,5 +16,5 @@ This course has two main goals:
 * Decision trees, boosting, and random forests
 * Neural Networks and TensorFlow
 
-## My Opinion/Comments
+## Opinion/Comments
 This is an ongoing course. I will keep uploading my Assignments here as I go through the course.
